@@ -5,7 +5,8 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
-	
+	//dj+3
+	// invite id = mJ5lFdXOUOfmvoLwOYNZc3vm
 }
 // delete condition
 
