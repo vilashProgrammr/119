@@ -5,6 +5,9 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//this is dj+15@programmr
+	//testing the fixes of rdp link issues
+	
 	
 }
 // delete condition
